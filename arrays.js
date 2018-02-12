@@ -7,3 +7,7 @@ function addElementToBeginningOfArray() {
 function addElementToEndOfArray() {
   return [1, 'foo']
 }
+
+function accessElementInArray() {
+  return console.log(0)
+}
