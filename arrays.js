@@ -7,6 +7,3 @@ function addElementToBeginningOfArray() {
 function addElementToEndOfArray() {
   return [...array, element]
 }
-
-
-
