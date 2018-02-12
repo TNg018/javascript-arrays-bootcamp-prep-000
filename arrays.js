@@ -1,9 +1,5 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function accessElementInArray() {
-  return console.log(chocolateBars[])
-}
-
 function destructivelyRemoveElementFromBeginningOfArray() {
 return chocolateBars.shift(0)
 }
