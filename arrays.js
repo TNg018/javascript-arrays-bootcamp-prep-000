@@ -6,6 +6,6 @@ function addElementToBeginningOfArray() {
   return ["foo", 1]
 }
 
-function addElementToEndOfArray() {
-  return [chocolateBars] + ['element']
+function destructivelyAddElementToBeginningOfArray() {
+  return ['element', chocolateBars]
 }
