@@ -11,8 +11,6 @@ function addElementToEndOfArray() {
   return [1, 'foo']
 }
 
-const chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
-
 function removeElementFromEndOfArray(chocolateBars) {
   return chocolateBars.shift()
 }
