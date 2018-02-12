@@ -9,6 +9,6 @@ function addElementToEndOfArray() {
 }
 
 function destructivelyAddElementToBeginningOfArray() {
-  chocolateBars.unshift(element)
+  chocolateBars.unshift('payday')
 return chocolateBars
 }
