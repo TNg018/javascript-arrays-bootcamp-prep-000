@@ -4,11 +4,7 @@ function addElementToBeginningOfArray(array, element) {
   return [element, ...array]
 }
 
-function addElementToEndOfArray() {
-  return [1, 'element']
-}
-
-function destructivelyAddElementToBeginningOfArray() {
-  chocolateBars.unshift('element')
-return chocolateBars
+function destructivelyAddElementToBeginningOfArray(array, element) {
+  array.unshift(element)
+return array
 }
