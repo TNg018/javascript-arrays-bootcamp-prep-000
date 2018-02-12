@@ -12,5 +12,5 @@ function addElementToEndOfArray() {
 }
 
 function removeElementFromEndOfArray(chocolateBars) {
-  return chocolateBars.shift([chocolateBars])
+  return chocolateBars.slice[-1]
 }
