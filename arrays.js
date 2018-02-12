@@ -5,13 +5,8 @@ function addElementToBeginningOfArray() {
 }
 
 function addElementToEndOfArray() {
-  return [1, 'foo']
+  return [...array, element]
 }
 
-var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
-chocolateBars.unshift('element')
 
-destructivelyAddElementToBeginningOfArray() = chocolateBars.unshift('element')
-
-destructivelyAddElementToBeginningOfArray = chocolateBars.unshift('element')
