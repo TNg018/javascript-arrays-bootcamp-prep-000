@@ -1,7 +1,7 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 function accessElementInArray() {
-  return console.log(chocolateBars[n])
+  return console.log(chocolateBars[])
 }
 
 function destructivelyRemoveElementFromBeginningOfArray() {
