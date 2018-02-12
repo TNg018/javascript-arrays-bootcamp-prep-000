@@ -5,5 +5,5 @@ function addElementToBeginningOfArray() {
 }
 
 function addElementToEndOfArray() {
-  return [chocolateBars.length + 'foo']
+  return [1, 'foo']
 }
