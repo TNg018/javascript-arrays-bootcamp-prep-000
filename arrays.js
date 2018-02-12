@@ -9,5 +9,5 @@ function addElementToEndOfArray() {
 }
 
 function accessElementInArray() {
-  return console.log(0)
+  return console.log(3)
 }
